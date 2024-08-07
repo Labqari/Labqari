@@ -1,4 +1,5 @@
 ## Hi there, I'm Abqari 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Abqari&color=brightgreen)
 
 ### About Me
 
@@ -15,14 +16,25 @@ I'm a final-year student passionate about web development and software engineeri
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)
 
 ### Projects
-
-- [To-Do List App](https://abqari.me/To-Do-List/): A simple and effective to-do list application.
 - [Sunscreen Checker](https://github.com/Abqari/Sunscreen-Checker): A website that uses the OpenUV API to provide UV index data and recommend sunscreen usage.
 
 ### Achievements
 
 - **Postman API Fundamentals Student Expert**
 - **GSSoC Contributor**
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" />
+</div>
 
 ### Contact
 
