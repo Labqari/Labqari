@@ -1,5 +1,5 @@
 ## Hi there, I'm Abqari 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Abqari&color=brightgreen)
+![Profile Views](https://abqari.me/ghpvc/?username=Abqari&color=brightgreen)
 
 ### About Me
 
